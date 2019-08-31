@@ -1,0 +1,7 @@
+﻿  BestcomImpl.cpp
+  main.cpp
+  progcomImpl.cpp
+  코드를 생성하고 있습니다...
+D:\201814099\c++ folder\problem_04_1\problem_04_1\BestcomImpl.h(5,7): warning C5046:  '`anonymous-namespace'::SimpleFunc': 내부 링크가 포함된 기호 관련 형식이 정의되어 있지 않습니다.
+main.obj : error LNK2019: "void __cdecl `anonymous namespace'::SimpleFunc(void)" (?SimpleFunc@?A0x958725a0@@YAXXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+D:\201814099\c++ folder\problem_04_1\Debug\problem_04_1.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
